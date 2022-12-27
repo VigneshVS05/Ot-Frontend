@@ -1,0 +1,138 @@
+
+*{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+.pay
+{
+ margin-left: 20px;  
+  
+}
+.head
+{   position: relative;
+    color: coral;
+    right: 30px;
+    
+}
+h4
+{
+    color: white;
+}
+
+#numb1
+{
+    margin-left: 20px;
+}
+.hrs
+{
+    margin-right:20px;
+}
+.OTvalue
+{
+    margin-right: 70px;
+}
+.Base
+{
+    margin-right:40px;
+}
+#Consider
+{
+    background-color: aqua;
+}
+
+.but
+{
+ position: relative;
+ bottom: 650px;
+ right: 50px;
+ padding: 10px;
+ background-color: lightpink;
+ border-radius: 5px;
+ cursor: pointer;
+ border-color: yellow;
+ 
+}
+
+input
+{ 
+    padding: 10px 12px;
+    width: 150px;
+    height:20px; 
+    border-radius: 5px;
+    border-color: yellow;
+}
+
+::placeholder
+{
+    color: grey;
+}
+input:hover 
+{
+    background-color: aqua;
+}
+.h11{  
+    width: 150px;
+    height:20px;    
+}
+.Consider
+{
+  
+    position: relative;
+    width: 180px;
+    margin-left: 30px;
+    bottom: 50px;
+    cursor: pointer;
+    
+}
+.Month
+{
+    margin-right: 15px;
+
+}
+.Start
+{
+position: relative;
+bottom: 5px;
+right: 270px;
+width: 150px;
+cursor: pointer;
+
+}
+
+
+.End
+{
+    position: relative;
+    margin-left: 30px;
+    bottom: 120px;
+    cursor: pointer;
+}
+#numb
+{
+    width: 150px;
+}
+
+.OT
+{
+position: relative;
+right: 120px;
+}
+.Tots{
+    margin-right: 800px;
+   
+    width: fit-content;
+}
+.Tots2
+{
+    position: relative;
+    margin-left: 750px;
+  
+    width: fit-content;
+    bottom: 550px;
+}
+p{
+    font-size: x-small;
+    color: red;
+}

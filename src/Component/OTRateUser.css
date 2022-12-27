@@ -1,0 +1,40 @@
+body
+{
+    background:url(https://i.pinimg.com/originals/e9/8f/22/e98f22dfb262911c39fb813d8ed0f06f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50%;
+  
+}
+
+.Total
+{
+    position: relative;
+    margin: auto;
+    margin-left: 160px;
+    right:100px;
+    bottom: 600px;
+    background-color: lightgoldenrodyellow;
+    width:fit-content;
+   border-radius: 10px;
+}
+table {
+    border: solid 1px black;
+    box-shadow: 10px white;
+   
+   
+  }
+ table td, table th ,table tr {
+        padding: 3px;
+       border-radius: 5px;
+       gap: 2px;
+        box-shadow:1px 1px 1px 1px black;
+    }
+
+.del
+{
+    background-color:red;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+}
